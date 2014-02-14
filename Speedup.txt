@@ -1,0 +1,9 @@
+I managed to speed up the calculation even more by the code in "knight3".
+Please see the following profiling results.
+
+
+knight2.py
+1000 loops, best of 3: 882 µs per loop
+
+knight3.py
+1000 loops, best of 3: 587 µs per loop

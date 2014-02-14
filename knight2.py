@@ -34,6 +34,7 @@ if __name__ == '__main__':
 	# print valid_nums(7, 1)
 	# print valid_nums(9, 1)
 	# print valid_nums(10, 1)
-	print (valid_nums(7, 2) + valid_nums(7, 3) + valid_nums(7, 4) +
+	answer = (valid_nums(7, 2) + valid_nums(7, 3) + valid_nums(7, 4) +
 		valid_nums(7, 5) + valid_nums(7, 6) + valid_nums(7, 7) +
 		valid_nums(7, 8) + valid_nums(7, 9))
+	# print answer
